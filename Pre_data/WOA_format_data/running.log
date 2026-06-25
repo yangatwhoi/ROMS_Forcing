@@ -1,0 +1,70 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> Add the paths of the different toolboxes
+Arch : x86_64 - Matlab version : 2017a
+Use of mexnc and loaddap in 64 bits.
+>> >> >> >> >> >> >>  
+Var name: dic
+File name: woa_pisces_all_c00_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_ann.cdf
+File name: woa_pisces_all_c01_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c02_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c03_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c04_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c05_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c06_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c07_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c08_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c09_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c10_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c11_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+File name: woa_pisces_all_c12_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/dic_seas.cdf
+ 
+Var name: alkalinity
+File name: woa_pisces_all_k00_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_ann.cdf
+File name: woa_pisces_all_k01_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k02_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k03_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k04_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k05_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k06_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k07_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k08_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k09_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k10_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k11_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+File name: woa_pisces_all_k12_01.nc
+Load file: /zeolite/clarkyu/work/Roms_tools/Roms_tools_v1.0/WOAPISCES/talk_seas.cdf
+>> 

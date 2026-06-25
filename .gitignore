@@ -1,31 +1,4 @@
-# Large scientific data and generated model files
-*.nc
-*.cdf
-*.mat
-*.b
-*.tif
-*.tiff
-
-# MATLAB and runtime artifacts
-*.asv
-*.m~
-*.mexw32
-*.mexw64
-*.mexa32
-*.mexa64
-*.mexglx
-*.mexmaci64
-*.mexmaca64
-
-# Logs and temporary files
-*.log
-*.err
-*.tmp
-*.bak
-.mysystem
-
 # OS/editor metadata
 .DS_Store
 Thumbs.db
 desktop.ini
-
