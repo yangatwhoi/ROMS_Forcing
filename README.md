@@ -1,15 +1,20 @@
 # ROMS_Forcing
 
-## Copyright and Contact
+ROMS_Forcing is a MATLAB toolbox collection for preparing forcing and input files for the Regional Ocean Modeling System (ROMS). It includes utilities for grid generation, initial conditions, boundary conditions, atmospheric forcing, tides, river inputs, biogeochemical variables, NetCDF I/O, and visualization.
 
-The startup scripts include the following original maintainer information:
+## Copyright
 
-- Copyright: (c) 2026 Yang Yu
+Copyright (c) 2026 Yang Yu. All rights reserved unless otherwise stated.
+
+This repository also includes third-party MATLAB toolboxes and supporting data
+under `Tool_box`. Those components keep their original copyright notices,
+licenses, and citation requirements.
+
+## Contact
+
 - Author: Yang Yu
 - Email: yang.yu@whoi.edu
 - Last updated: May 2026
-
-ROMS_Forcing is a MATLAB toolbox collection for preparing forcing and input files for the Regional Ocean Modeling System (ROMS). It includes utilities for grid generation, initial conditions, boundary conditions, atmospheric forcing, tides, river inputs, biogeochemical variables, NetCDF I/O, and visualization.
 
 ## Main Features
 
